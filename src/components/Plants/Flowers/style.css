@@ -1,0 +1,18 @@
+.paginationBtns{
+    width: 80%;
+    height: 40%;
+    list-style: none;
+    display: flex;
+    margin-top: 50px;
+    justify-content: flex-end;
+
+}
+.paginationBtns a{
+    padding: 10px;
+    margin: 1px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid var(--greenColor);
+    color: var(--greenColor);
+    
+}
